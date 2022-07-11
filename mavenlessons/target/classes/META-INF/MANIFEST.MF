@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: bara3134
+Build-Jdk: 16.0.2
+Implementation-Title: mavenlessons
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.chainsys
+Implementation-URL: http://www.chainsys.com
+Created-By: Maven Integration for Eclipse
+
